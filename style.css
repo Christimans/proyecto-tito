@@ -1,0 +1,12 @@
+.logo{
+    width: 200px;
+    height: 200px;
+}
+.navegador{
+    display: flex;
+    width: 100%;
+}
+.pagina{
+    display: flex;
+    justify-content: space-between;
+}
